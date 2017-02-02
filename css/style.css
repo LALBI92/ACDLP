@@ -2252,7 +2252,8 @@ figure.effect-oscar:hover img {
 }
 
 .map-wrapper{
-	position: relative;
+	position: absolute;
+
 }
 
 .map {
